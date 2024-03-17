@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class TileRow : MonoBehaviour
 {
-    public TileCell[] cells { get; private set; }// 当前行所管辖的单元格
+    public TileCell[] cells {  get; set; }// 当前行所管辖的单元格
     // { get; private set; } 的意思是，允许别的类使用这个成员，但不允许修改
     
     private void Awake()
