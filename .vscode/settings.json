@@ -58,5 +58,20 @@
 	},
 	"dotnet.defaultSolution": "study2048.sln",
 	"editor.formatOnPaste": true,
-	"editor.formatOnSave": true
+	"editor.formatOnSave": true,
+	"dotnetAcquisitionExtension.existingDotnetPath": [
+		{
+			"extensionId": "ms-dotnettools.csharp",
+			"path": "C:\\Program Files\\dotnet\\dotnet.exe"
+		},
+		{
+			"extensionId": "visualstudiotoolsforunity.vstuc",
+			"path": "C:\\Program Files\\dotnet\\dotnet.exe"
+		},
+		{
+			"extensionId": "ms-dotnettools.csdevkit",
+			"path": "C:\\Program Files\\dotnet\\dotnet.exe"
+		}
+	],
+	"omnisharp.useModernNet": false
 }

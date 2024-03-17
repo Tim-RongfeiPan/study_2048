@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class              Tile : MonoBehaviour
+public class Tile : MonoBehaviour
 {
     public TileState state { get; private set; } // 状态，用于处理数字和背景颜色
     public TileCell cell { get; private set; } // 当前在哪个单元格上

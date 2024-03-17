@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: 65536
   m_EditorClassIdentifier: 
   backgroundColor: {r: 0.38, g: 0.63, b: 0.87, a: 1}
-  textColor: {r: 1, g: 1, b: 1, a: 0}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
   number: 65536

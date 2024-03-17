@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: 2048
   m_EditorClassIdentifier: 
   backgroundColor: {r: 0.929, g: 0.7607, b: 0.18039, a: 1}
-  textColor: {r: 1, g: 1, b: 1, a: 0}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
   number: 2048

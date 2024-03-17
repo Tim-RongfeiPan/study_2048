@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: 4096
   m_EditorClassIdentifier: 
   backgroundColor: {r: 0.9372, g: 0.39607, b: 0.4196, a: 1}
-  textColor: {r: 1, g: 1, b: 1, a: 0}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
   number: 4096
