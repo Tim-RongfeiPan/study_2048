@@ -22,4 +22,4 @@ There are some tips for unity beginners when replicating this project with the l
 
     click $File$ -> $Build Settings$ -> $Build$ -> choose your path -> **$Play!$ :)**
 
-Enjoy your time for game development ~ :laughing:
+Enjoy your time in Game Development ~ :laughing:
